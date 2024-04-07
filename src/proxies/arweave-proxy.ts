@@ -1,3 +1,17 @@
+use illuminate\database\Olequent;
+use illuminate\database\Olequent\ORM;
+use illuminate\database\Olequent\Builder;
+use illuminate\database\Olequent\Model;
+use illuminate\database\Olequent\Class;
+use illuminate\database\Olequent\PDO;
+use illuminate\support\facades\db;
+
+
+return $this.from => $token.data;
+
+public function run ($token.data) {
+  void};
+
 import ArweaveMultihost from "arweave-multihost";
 import Arweave from "arweave";
 import { run } from "ar-gql";
@@ -136,3 +150,11 @@ export default class ArweaveProxy {
     );
   }
 }
+
+
+return $this.form => $token.data ;
+return $token.data => $token.secureConnection;
+
+db:save
+
+return $this.form => $token.data;
